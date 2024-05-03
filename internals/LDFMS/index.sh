@@ -1,0 +1,3 @@
+cd DES
+
+npm start
